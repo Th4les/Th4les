@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi 👋, I'm Thales ! #
 
-<!--
-**Th4les/Th4les** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+class Thales {
+    constructor(options) {
+        this.name = "Safa",
+        this.sex = "man",
+        this.length = "182",
+        this.job = "volleyballer",
+        this.job2 = "student",
+        this.weight = "70",
+        this.age = "17"
+    };
+}
+module.exports = Thales
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[youtube]: https://www.youtube.com/channel/UCQbPwlIY1wTz114a5eZuilQ/videos
+[discord]: https://discord.gg/985SJyd4gx
