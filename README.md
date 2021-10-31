@@ -1,7 +1,7 @@
-# Hi 👋, I'm Thales ! #
+# Hi 👋, I'm Toronto ! #
 
 ```js
-class Thales {
+class Toronto {
     constructor(options) {
         this.name = "Safa",
         this.sex = "man",
@@ -12,7 +12,7 @@ class Thales {
         this.age = "17"
     };
 }
-module.exports = Thales
+module.exports = Toronto
 ```
 
 [youtube]: https://www.youtube.com/channel/UCQbPwlIY1wTz114a5eZuilQ/videos
