@@ -18,5 +18,4 @@ module.exports = Toronto
 [youtube]: https://www.youtube.com/channel/UCQbPwlIY1wTz114a5eZuilQ/videos
 [discord]: https://discord.gg/985SJyd4gx
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/572820827494678539
-                            )](https://discord.com/users/572820827494678539)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/572820827494678539?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/572820827494678539)
