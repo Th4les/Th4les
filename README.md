@@ -1,10 +1,9 @@
+# Hi 👋, I'm Toronto ! #
+
 </p><img src="https://komarev.com/ghpvc/?username=This-Toronto-js&label=Profile%20views&color=080808&style=flat"
 <div align="center">
     <a href="https://discord.com/users/572820827494678539" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/572820827494678539"></a>
 </div>
-
-
-# Hi 👋, I'm Toronto ! #
 
 ```js
 class Toronto {
