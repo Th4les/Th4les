@@ -10,7 +10,7 @@ class Toronto {
     constructor(options) {
         this.name = "Safa",
         this.sex = "man",
-        this.length = "182",
+        this.length = "183",
         this.job = "volleyballer",
         this.job2 = "student",
         this.weight = "70",
