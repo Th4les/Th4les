@@ -10,11 +10,10 @@ class Toronto {
     constructor(options) {
         this.name = "Safa",
         this.sex = "man",
-        this.length = "183",
-        this.job = "volleyballer",
-        this.job2 = "student",
-        this.weight = "70",
-        this.age = "17"
+        this.length = "186",
+        this.job = "student",
+        this.weight = "78",
+        this.age = "19"
     };
 }
 module.exports = Toronto
